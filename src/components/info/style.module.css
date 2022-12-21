@@ -1,0 +1,11 @@
+.container {
+    width: 700px;
+    background: lightcyan;
+    margin: 40px;
+    border: 1px solid #282c34;
+    padding: 10px;
+}
+
+span {
+    font-weight: 700;
+}
